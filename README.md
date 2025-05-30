@@ -1,6 +1,6 @@
 # About Me:
 I make tools for myself and sometimes publish them.<br>Currently working on an random shit.<br>Trying to get better in lower level<br>You can contact me only trough github, find me on 8chan.
-<br> This readme was just a test, as a remainder to make something better in the future.
+<br> This readme was just a test, as a reminder to make something better in the future.
 <br><br>Silly story about me that I scraped off somewhere:
 <br>
 -Him: "A name"
