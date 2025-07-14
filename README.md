@@ -1,5 +1,6 @@
 # About Me:
-I make tools for myself and sometimes publish them.<br>Currently working on random shit.<br>Trying to get better in lower level
+A german fellow who likes to test limits of various things
+<br> I make tools for myself and sometimes publish them.<br>Currently working on random shit.<br>Trying to get better in lower level
 <br> This readme was just a test, as a reminder to make something better in the future.
 <br>Play my old game at: https://arti4ikmin.github.io/
 <br><br>Silly story about me that I scraped off somewhere:
